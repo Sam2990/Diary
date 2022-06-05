@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Diary 2.0</string>
+    <string name="diary_2_0">Diary 2.0</string>
+    <string name="i_remember_everything_you_say_me">I remember everything you say me</string>
+    <string name="image">image</string>
+    <string name="add_memory">Add Memory</string>
+    <string name="type_here_to_add">Type here to add</string>
+    <string name="date">DATE</string>
+    <string name="save">save</string>
+    <string name="click_me">click me</string>
+    <string name="string_click_me" />
+    <string name="string_string_click_me" />
+    <string name="add_memory2">ADD MEMORY</string>
+    <string name="add_meamory3">Add meamory</string>
+    <string name="fb1">fb1</string>
+    <string name="timeline">TIMELINE</string>
+    <string name="add_memory4">ADD MEMORY</string>
+</resources>
